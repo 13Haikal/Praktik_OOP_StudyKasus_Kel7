@@ -16,7 +16,7 @@ Mengelola berbagai jenis menu (Makanan, Minuman, dan Dessert) beserta stoknya se
 
 ---
 
-## 📁 Struktur Proyek
+## 📁 Struktur
 
 ```bash
 StokRestoran/
