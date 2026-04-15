@@ -21,15 +21,16 @@ Fokus utama proyek ini adalah:
 
 ---
 
-## 📁 Struktur Folder
+## 📁 Struktur Proyek
+
 StokRestoran/
 └── stok/
-    ├── MainStokRestoran.java          ← File utama (Entry Point)
+    ├── MainStokRestoran.java
     └── menu/
-        ├── MenuRestoran.java          ← Abstract Superclass
-        ├── Makanan.java               ← Subclass
-        ├── Minuman.java               ← Subclass
-        └── Dessert.java               ← Subclass
+        ├── MenuRestoran.java
+        ├── Makanan.java
+        ├── Minuman.java
+        └── Dessert.java
 ---
 
 ## 🏗️ Penjelasan Class
