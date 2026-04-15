@@ -32,6 +32,7 @@ StokRestoran/
         ├── Makanan.java
         ├── Minuman.java
         └── Dessert.java
+```
 ---
 
 ## 🏗️ Penjelasan Class
