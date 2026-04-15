@@ -23,6 +23,7 @@ Fokus utama proyek ini adalah:
 
 ## 📁 Struktur Proyek
 
+```bash
 StokRestoran/
 └── stok/
     ├── MainStokRestoran.java
