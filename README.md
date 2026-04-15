@@ -84,4 +84,4 @@ cd StokRestoran/stok
 javac -d . menu/*.java MainStokRestoran.java
 
 # Jalankan program
-java stok.MainStokRestoran
+java MainStokRestoran.java
