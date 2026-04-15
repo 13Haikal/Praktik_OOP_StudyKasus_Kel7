@@ -22,7 +22,6 @@ Fokus utama proyek ini adalah:
 ---
 
 ## 📁 Struktur Folder
-```bash
 StokRestoran/
 └── stok/
     ├── MainStokRestoran.java          ← File utama (Entry Point)
