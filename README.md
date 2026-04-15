@@ -22,14 +22,15 @@ Fokus utama proyek ini adalah:
 ---
 
 ## 📁 Struktur Folder
+```bash
 StokRestoran/
 └── stok/
-├── MainStokRestoran.java          ← File utama (entry point)
-└── menu/
-├── MenuRestoran.java          ← Abstract Superclass
-├── Makanan.java               ← Subclass
-├── Minuman.java               ← Subclass
-└── Dessert.java               ← Subclass
+    ├── MainStokRestoran.java          ← File utama (Entry Point)
+    └── menu/
+        ├── MenuRestoran.java          ← Abstract Superclass
+        ├── Makanan.java               ← Subclass
+        ├── Minuman.java               ← Subclass
+        └── Dessert.java               ← Subclass
 ---
 
 ## 🏗️ Penjelasan Class
