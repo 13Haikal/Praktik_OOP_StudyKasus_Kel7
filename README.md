@@ -1,14 +1,9 @@
-# Sistem Manajemen Stok Restoran - Warung Makan Barokah
+## Kelompok 7
+# Sistem Manajemen Stok Restoran
 
-## 📋 Deskripsi Proyek
-Proyek ini merupakan **Study Case Praktikum OOP** yang mengimplementasikan konsep-konsep Object Oriented Programming (OOP) menggunakan bahasa **Java**.  
-Sistem ini dirancang untuk mengelola stok menu di sebuah warung makan kecil bernama **Warung Makan Barokah**.
-
-Fokus utama proyek ini adalah:
-- Demonstrasi **Inheritance**
-- **Polymorphism** (method overriding & abstract class)
-- **Encapsulation** dengan validasi data
-- Penggunaan **array** dan **Scanner** untuk interaksi dengan user
+## 🎯 Tema
+**Sistem Manajemen Stok Restoran**  
+Mengelola berbagai jenis menu (Makanan, Minuman, dan Dessert) beserta stoknya secara dinamis dengan memanfaatkan konsep OOP.
 
 ---
 
