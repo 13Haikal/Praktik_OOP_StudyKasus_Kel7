@@ -81,7 +81,7 @@ Semua subclass meng-override:
 cd StokRestoran/stok
 
 # Compile semua file
-Study Case\StokRestoran\StokRestoran
+Praktik_OOP_StudyKasus_Kel7\StokRestoran\StokRestoran\stok
 
 # Jalankan program
 java MainStokRestoran.java
