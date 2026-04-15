@@ -81,7 +81,7 @@ Semua subclass meng-override:
 cd StokRestoran/stok
 
 # Compile semua file
-javac -d . menu/*.java MainStokRestoran.java
+Study Case\StokRestoran\StokRestoran
 
 # Jalankan program
 java MainStokRestoran.java
