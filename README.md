@@ -23,15 +23,15 @@ Fokus utama proyek ini adalah:
 
 ## 📁 Struktur Proyek
 
-rental/
-├── kendaraan/                   # Paket Inheritance + Polymorphism
-│   ├── Kendaraan.java           # Superclass Abstract
-│   ├── Mobil.java               # Subclass (Denda/Biaya Khusus Mobil)
-│   ├── Motor.java               # Subclass (Kapasitas Mesin)
-│   └── Bus.java                 # Subclass (Kapasitas Penumpang)
-├── penyewa/                     # Paket Encapsulation
-│   └── Penyewa.java             # Manajemen Data & Saldo Pelanggan
-└── MainRental.java              # Entry Point & Simulasi Sistem
+```bash
+StokRestoran/
+└── stok/
+    ├── MainStokRestoran.java
+    └── menu/
+        ├── MenuRestoran.java
+        ├── Makanan.java
+        ├── Minuman.java
+        └── Dessert.java
 ---
 
 ## 🏗️ Penjelasan Class
