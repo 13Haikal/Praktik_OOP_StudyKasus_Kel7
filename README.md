@@ -1,5 +1,5 @@
 ## Kelompok 7
-# Sistem Manajemen Stok Restoran
+# Sistem Manajemen "Stok Restoran Warung Makan Barokah"
 
 ## 🎯 Tema
 **Sistem Manajemen Stok Restoran**  
